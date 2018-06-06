@@ -36,3 +36,12 @@ Test Data:
 
     Basket: SR1, SR1, FR1, SR1
     Total price expected: £16.61
+
+## How to run solution
+
+In the terminal:
+
+1. `yarn install`
+2. `yarn build`
+3. `node server`
+4. Visit http://localhost:4000/ in your browser
